@@ -1,1 +1,1 @@
-it`s not Politekhnik tasks
+just my code
